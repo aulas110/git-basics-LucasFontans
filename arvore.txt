@@ -1,0 +1,6 @@
+.
+├── README.md
+├── arvore.txt
+└── lucas.txt
+
+0 directories, 3 files
