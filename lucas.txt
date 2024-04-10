@@ -1,0 +1,118 @@
+    1  ls
+    2  go
+    3  tree
+    4  sudo apt install tree
+    5  mkdir projeto
+    6  ls
+    7  cd projeto/
+    8  mkdir src
+    9  cd.
+   10  cd .
+   11  cd ..
+   12  ls
+   13  tree
+   14  sudo snap install tree
+   15  tree
+   16  mv README.md projeto/
+   17  tree
+   18  chmod --h
+   19  chmod 
+   20  chmod --help
+   21  cd projeto/
+   22  ls -l
+   23  chmod 444 README.md
+   24  ls -l
+   25  chmod 660 src/
+   26  ls -l
+   27  chmod +x src/
+   28  ls -l
+   29   chmod 000 src/
+   30  ls -l
+   31  chmod o+wr src/
+   32  ls -l
+   33  chmod 000 src
+   34  chmod voclabs+wr src/
+   35  chmod u+wr src/
+   36  ls -l
+   37  chmod 000 src
+   38  chmod ug+rw src/
+   39  ls -l
+   40  ls -l
+   41  cd
+   42  find>meudiretorio.txt
+   43  history>meuhistorico.txt
+   44  history > meuhistorico.txt
+   45  ls
+   46  mv meudiretorio.txt projeto/
+   47  cd environment/
+   48  ls
+   49  cd
+   50  mv meudiretorio.txt environment/
+   51  mv meuhistorico.txt environment/
+   52  cd environment/
+   53  rm meudiretorio.txt 
+   54  find>meudiretorio.txt
+   55  ls
+   56  cat meuhistorico.txt | awk '{print $2}'
+   57  history | awk '{print $2}'
+   58  cd projeto/
+   59  mkdir api
+   60  mkdir doc
+   61  ls
+   62  cd src/
+   63  sudo cd src/
+   64  sudo su
+   65  sudo su
+   66  tree
+   67  touch doc/interface.txt
+   68  touch doc/modules.txt
+   69  touch doc/projeto.txt
+   70  cd .
+   71  cd ..
+   72  tree
+   73  rm meuhistorico.txt
+   74  rm meudiretorio.txt 
+   75  history>meuhistorico.txt
+   76  find>meudiretorio.txt
+   77  nano
+   78  chmod +x meuscript.sh 
+   79  vim
+   80  ls
+   81  vim meu
+   82  vim meuscript.sh 
+   83  vim meuscript.sh 
+   84  ls
+   85  cchmod  700 meuscript.sh 
+   86  ls
+   87  chmod  700 meuscript.sh 
+   88  ls
+   89  ssh-keygen
+   90  clear
+   91  ssh-keygen
+   92  cat key
+   93  cat key.pub
+   94  git clone https://github.com/aulas110/git-basics-LucasFontans
+   95  git config --global core.editor nano
+   96  git config --global user.name "Lucas"
+   97  git config --global user.email lucasgbfontans@gmail.com
+   98  git status
+   99  git clone git@github.com:aulas110/git-basics-LucasFontans.git
+  100  git clone
+  101  git clone git@github.com:aulas110/git-basics-LucasFontans.git
+  102  ls
+  103  cd
+  104  ssh-keygen
+  105  cat .ssh/id_rsa.pub
+  106  cat ubuntu/.ssh/id_rsa.pub
+  107  ls
+  108  ssh-keygen
+  109  cat .ssh//id_rsa.pub
+  110  cd environment/
+  111  git clone git@github.com:aulas110/git-basics-LucasFontans.git
+  112  git status
+  113  ll
+  114  l
+  115  ls
+  116  cd git-basics-LucasFontans/
+  117  git status
+  118  history > lucas.txt
